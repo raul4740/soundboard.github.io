@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Me Canso",
+        "file": "/res/mecansoganso.mp3"
+    },
+    {
+        "title": "Cat",
+        "file": "/res/cat.mp3"
+    },
+    {
+        "title": "Cow",
+        "file": "/res/cow.mp3"
+    },
+    {
+        "title": "Dog",
+        "file": "/res/dog.mp3"
+    },
+    {
+        "title": "Dolphin",
+        "file": "/res/dolphin.mp3"
+    },
+    {
+        "title": "Frog",
+        "file": "/res/frog.mp3"
+    },
+    {
+        "title": "Pig",
+        "file": "/res/pig.mp3"
+    }
+]
